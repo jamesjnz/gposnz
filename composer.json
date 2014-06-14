@@ -2,11 +2,8 @@
     "name": "jamesjnz/gposnz",
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.8",
-        "silex/silex": "1.0.*",
-        "twig/twig": ">=1.8,<2.0-dev",
-        "symfony/twig-bridge": "2.1.*",
-        "symfony/monolog-bridge": "~2.2"
+        "php": ">=5.3.8"
+
     },
     "repositories": [
         {
