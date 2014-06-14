@@ -1,0 +1,13 @@
+{
+    "name": "jamesjnz/gpos",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.8"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:/jamesjnz/gposnz"
+        }
+    ]
+}
